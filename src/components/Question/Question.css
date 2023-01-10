@@ -44,7 +44,8 @@
 .controls {
   display: flex;
   width: 100%;
-  justify-content: space-around;
+  justify-content: space-between;
+  flex-direction: space-between;
 }
 
 .select {

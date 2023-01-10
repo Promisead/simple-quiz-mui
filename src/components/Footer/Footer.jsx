@@ -8,8 +8,9 @@ const Footer = () => {
     >
       Made with ♥ by{' '}
       <a
-        href="https://www.youtube.com/roadsidecoder"
+        href="https://promisechampion.vercel.app/     "
         style={{ cursor: 'pointer' }}
+        target="_blank"
       >
         Promise Champion
       </a>

@@ -70,7 +70,7 @@ const Question = ({
             variant="contained"
             color="secondary"
             size="large"
-            style={{ width: 185 }}
+            style={{ width: 130 }}
             href="/"
             onClick={() => handleQuit()}
           >
@@ -80,7 +80,7 @@ const Question = ({
             variant="contained"
             color="primary"
             size="large"
-            style={{ width: 185 }}
+            style={{ width: 130 }}
             onClick={handleNext}
           >
             {currQues > 20 ? 'Submit' : 'Next Question'}
