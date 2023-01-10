@@ -14,7 +14,7 @@ const Result = ({ name, score }) => {
 
   return (
     <div className="result">
-      <span className="title">Final Score : {score}</span>
+      <span className="title">Final Score : {score * 10}%</span>
       <Button
         variant="contained"
         color="secondary"
